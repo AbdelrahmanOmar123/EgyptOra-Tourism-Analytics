@@ -62,6 +62,44 @@ flowchart LR
 
 The collection workflow preserves raw source snapshots, normalized outputs, source registers, file manifests and QA checks. The cleaning workflow standardizes text, handles logical blanks conservatively and preserves verified numeric and English values. Power BI uses a consolidated analysis-ready workbook rather than appending duplicate CSV exports.
 
+## Power BI Dashboard Gallery
+
+### 1. Executive Overview
+![Executive Overview](images/01-executive-overview.png)
+
+### 2. International Tourism Trend
+![International Tourism Trend](images/02-international-tourism-trend.png)
+
+### 3. Hospitality & Heritage Landscape
+![Hospitality and Heritage](images/03-hospitality-heritage.png)
+
+### 4. Destinations & Climate
+![Destinations and Climate](images/04-destinations-climate.png)
+
+### 5. Digital Interest & Online Awareness
+![Digital Interest](images/05-digital-interest.png)
+
+### 6. Data Quality & Source Audit
+![Data Quality Audit](images/06-data-quality-audit.png)
+
+### 7. AI Destination Intelligence
+![AI Destination Intelligence](images/07-ai-destination-intelligence.png)
+
+---
+
+## Website Prototype
+
+### Homepage
+![EgyptOra Website Homepage](images/08-website-homepage.png)
+
+### Destination Comparison
+![Destination Comparison](images/09-website-destination-comparison.png)
+
+### Smart Recommendations
+![Smart Recommendations](images/10-website-recommendations.png)
+
+---
+
 ## Power BI Analytics
 
 The documented report contains six core analytical pages and two additional analytical outputs:
