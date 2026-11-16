@@ -1,0 +1,9 @@
+﻿source_id,provider,dataset,method,cost,license_or_terms,source_url,analysis_role
+SRC_MOTA_DIRECTORIES,Egypt Ministry of Tourism and Antiquities,Fixed accommodation; archaeology; museums,POST public directory endpoint,FREE_PUBLIC,Public official directory,https://mota.gov.eg/GenericList/GetAll,Official inventory and identity; not occupancy or demand.
+SRC_WB,World Bank WDI,International arrivals and tourism receipts,REST API JSON,FREE_API,CC BY 4.0,https://api.worldbank.org/v2/country/EGY,National annual trend where values are available.
+SRC_EGY_OFFICIAL_ANNUAL,Egyptian government sources,International arrivals 2020-2025,Official page snapshots + normalized published values,FREE_PUBLIC,Public government pages,Multiple URLs stored per row,Calendar-year arrivals; rounded rows are explicitly flagged.
+SRC_NASA_POWER,NASA Langley POWER,Monthly destination climate,REST API JSON,FREE_API,NASA open data terms,https://power.larc.nasa.gov/api/temporal/monthly/point,Modelled climate suitability; not station observation.
+SRC_WIKIMEDIA,Wikimedia Foundation,Monthly pageviews,REST API JSON,FREE_API,Wikimedia API terms,https://wikimedia.org/api/rest_v1/,Digital interest only; not tourist visits.
+SRC_GEOBOUNDARIES,geoBoundaries,Egypt ADM1 boundaries,REST metadata + GeoJSON,FREE_OPEN_DATA,CC BY 4.0,https://www.geoboundaries.org/api/current/gbOpen/EGY/ADM1/,Governorate spatial reference.
+SRC_UNESCO,UNESCO World Heritage Centre,World Heritage sites in Egypt,Official XML export,FREE_PUBLIC,UNESCO site terms,https://whc.unesco.org/en/list/xml/,Official heritage reference.
+SRC_OSM,OpenStreetMap contributors,Attraction and accommodation candidates,Overpass API,FREE_OPEN_DATA,ODbL,https://overpass-api.de/api/interpreter,Reference/candidate generation only; not an official census.

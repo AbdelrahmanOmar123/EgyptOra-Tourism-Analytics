@@ -1,0 +1,7 @@
+﻿source_id,year,snapshot_status,detail,source_url
+SRC_MPED_2020_2021,2020,DOWNLOADED,raw\official_tourism_pages\SRC_MPED_2020_2021.html,https://mped.gov.eg/singlenews?id=3612
+SRC_MPED_2020_2021,2021,DOWNLOADED,raw\official_tourism_pages\SRC_MPED_2020_2021.html,https://mped.gov.eg/singlenews?id=3612
+SRC_CAPMAS_SIS_2022,2022,UNAVAILABLE,Request failed after 4 attempts: https://sis.gov.eg/es/centro-de-informacion/noticias-exclusivas/117-millones-de-turistas-visitaron-egipto-en-2022-y-los-ingresos-registraron-10700-millones-de-d%C3%B3lares/ :: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>,https://sis.gov.eg/es/centro-de-informacion/noticias-exclusivas/117-millones-de-turistas-visitaron-egipto-en-2022-y-los-ingresos-registraron-10700-millones-de-d%C3%B3lares/
+SRC_MOTA_2023,2023,DOWNLOADED,raw\official_tourism_pages\SRC_MOTA_2023.html,https://egymonuments.gov.eg/en/events/tourism-in-egypt-2023
+SRC_MOTA_2024,2024,DOWNLOADED,raw\official_tourism_pages\SRC_MOTA_2024.html,https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يختتم-زيارته-الرسمية-إلى-صربيا-بلقاءات-إعلامية-موسعة-لتسليط-الضوء-على-آفاق-التعاون-السياحي-والثقافي-بين-البلدين/
+SRC_MOTA_2025,2025,DOWNLOADED,raw\official_tourism_pages\SRC_MOTA_2025.html,https://mota.gov.eg/ar/الأخبار-2-1-1/قفزة-جديدة-للسياحة-المصرية-في-2025-مصر-تستقبل-19-مليون-سائح-بمعدل-نمو-21-مقارنة-بعام-2024/
