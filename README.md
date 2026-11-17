@@ -191,3 +191,51 @@ Acknowledgement: Eng. Bassam Elshoraa and the project supervision committee.
 [Abdelrahman Omar — Data Analytics Portfolio](https://abdelrahman-omar-portfolio.lovable.app)
 
 External data remains subject to the original providers' terms. No blanket redistribution license is asserted for the team project or third-party datasets.
+---
+
+## Repository Structure
+
+| Folder | Description |
+|---|---|
+| [dashboard](dashboard/) | Power BI dashboard files |
+| [data](data/) | Source datasets |
+| [documentation](documentation/) | Project documentation |
+| [final-data](final-data/) | Cleaned datasets and data cleaning notebook |
+| [images](images/) | Dashboard and website screenshots |
+| [machine-learning](machine-learning/) | Destination clustering and similarity analysis |
+| [web-scraping](web-scraping/) | Data collection pipeline and quality outputs |
+| [requirements.txt](requirements.txt) | Python dependencies for machine learning |
+
+---
+
+## How to Run the Machine Learning Notebook
+
+1. Clone or download this repository.
+2. Use Python 3.13.5, the tested environment.
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Launch Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+5. Open the notebook inside the `machine-learning` folder.
+6. Select **Restart Kernel and Run All**.
+
+The notebook loads `EgyptOra_ML_Ready.xlsx`,
+performs destination segmentation, evaluates
+clustering models, and generates similarity
+recommendations.
+
+[View Machine Learning Notebook](machine-learning/EgyptOra_Machine_Learning%20Notebook.ipynb)
+
+The original Excel workbook remains unchanged.
+
+---
+
+
